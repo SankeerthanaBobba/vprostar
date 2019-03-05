@@ -1,3 +1,3 @@
 This is a test
 for learning
-git and github
+Git and GitHub
